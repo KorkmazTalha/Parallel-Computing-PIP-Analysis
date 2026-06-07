@@ -1,5 +1,5 @@
 # 📽️ Proje Video Sunumu
-[![YouTube Sunum Videosu](https://img.shields.io/badge/YouTube-Video%20Sunumu-red?style=for-the-badge&logo=youtube)](https://youtu.be/X6iWgDuafhM)
+Bu projenin detaylı anlatımı ve çalışma mantığına ait video sunumuna **[Buraya Tıklayarak (YouTube)](https://youtu.be/X6iWgDuafhM)** ulaşabilirsiniz.
 
 # 📍 Paralel Point in Polygon (PIP) Tespiti
 
