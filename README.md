@@ -1,3 +1,6 @@
+# 📽️ Proje Video Sunumu
+[![YouTube Sunum Videosu](https://img.shields.io/badge/YouTube-Video%20Sunumu-red?style=for-the-badge&logo=youtube)](https://youtu.be/X6iWgDuafhM)
+
 # 📍 Paralel Point in Polygon (PIP) Tespiti
 
 Bu proje, Java Çoklu Thread (Multi-threading) mimarisini kullanarak, milyonlarca rastgele noktanın belirli bir poligonun içinde olup olmadığını **Ray-Casting Algoritması** ile tespit eden yüksek performanslı bir uygulamadır.
