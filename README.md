@@ -1,6 +1,27 @@
 # 📽️ Proje Video Sunumu
 Bu projenin detaylı anlatımı ve çalışma mantığına ait video sunumuna **[Buraya Tıklayarak (YouTube)](https://youtu.be/X6iWgDuafhM)** ulaşabilirsiniz.
 
+## 🚀 Projeyi Yerelde Çalıştırma Kılavuzu (VS Code)
+
+Projeyi VS Code üzerinde en hızlı şekilde çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
+
+### 📋 Ön Gereksinim
+VS Code üzerinde Java kodlarının sorunsuz derlenip çalışabilmesi için **"Extension Pack for Java"** veya **"Code Runner"** eklentisinin kurulu olduğundan emin olunuz.
+
+### 🛠️ Çalıştırma Adımları
+
+1. **Projeyi Açın:**
+   GitHub'dan indirdiğiniz ana klasörü VS Code ile açın (`File -> Open Folder` seçeneği ile ana dizini seçebilirsiniz).
+
+2. **Ana Sınıfa Gidin:**
+   Sol taraftaki dosya ağacından `src/ParallelPointInPolygon.java` dosyasını çift tıklayarak açın.
+
+3. **Tek Tıkla Çalıştırın (Run Code):**
+   `Main.java` sekmesi açıkken, sağ üst köşede (açık dosyaların yanındaki menüde) yer alan **"Run Code"** butonuna tıklayın.
+
+4. **Sonuçları Gözlemleyin:**
+   Program alt taraftaki terminal ekranında çalışacak ve paralelleştirme işlemine ait süre ile performans analizlerini doğrudan ekrana basacaktır.
+
 # 📍 Paralel Point in Polygon (PIP) Tespiti
 
 Bu proje, Java Çoklu Thread (Multi-threading) mimarisini kullanarak, milyonlarca rastgele noktanın belirli bir poligonun içinde olup olmadığını **Ray-Casting Algoritması** ile tespit eden yüksek performanslı bir uygulamadır.
